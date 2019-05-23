@@ -1,6 +1,1 @@
-<?php 
-
-
-
-devestatic@123
-?>
+<?php echo 'newtest'; ?>
