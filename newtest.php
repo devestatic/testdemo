@@ -1,5 +1,1 @@
-<?php 
-
-3
-
-?>
+<?php echo 'newtest'; ?>
