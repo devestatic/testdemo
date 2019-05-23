@@ -1,5 +1,5 @@
 <?php
-echo 44444;
+echo 55555555 "stash updates";
 die;
 ?>
 
